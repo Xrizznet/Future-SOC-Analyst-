@@ -1,10 +1,12 @@
-# Future-SOC-Analyst- Charisma McCutcheon
+# Future-SOC-Analyst-Charisma McCutcheon
 Overall Objectives
 
 Documenting hands‑on cybersecurity projects from my home lab.
 Publishing walkthroughs, analysis notes, and findings from the scenarios I practice as I build toward a SOC role.
 
 Monitored Enviorment
+
+Devices and their roles within the network: 
 
 Windows Server 2022 - Domain Controller - Wazuh Agent + Sysmon
 
