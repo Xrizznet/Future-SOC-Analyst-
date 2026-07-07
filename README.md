@@ -14,7 +14,7 @@ Windows 11 - Workstation 1 - Wazuh Agent + Sysmon
 
 Ubuntu VM - Wazuuh Server - (manager, indexer, dashboard)
 
-- [01 – [Virtual-Machine-Storage-Expansion-Process](./Virtual-Machine-Storage-Expansion-Proces/README.md)
+- [01 – [Virtual-Machine-Storage-Expansion-Process](./Virtual-Machine-Storage-Expansion-Process/README.md)
 - [02 – User and Permissions](./02-user-and-permissions/README.md)
 - [03 – Networking Fundamentals](./03-networking-fundamentals/README.md)
 - [04 – Services and Daemons](./04-services-and-daemons/README.md)
